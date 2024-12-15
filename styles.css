@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: #24292e;
+  background-color: #f6f8fa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  max-width: 600px;
+}
+
+.error-section h1 {
+  font-size: 120px;
+  margin: 0;
+  color: #d73a49;
+}
+
+.message {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+.github-link {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #2ea44f;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.github-link:hover {
+  background-color: #22863a;
+}
+
+.illustration img {
+  max-width: 100%;
+  margin-top: 40px;
+}
